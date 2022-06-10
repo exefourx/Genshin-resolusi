@@ -1,8 +1,8 @@
 Menyiapkan jadwal bermain
-Kapan saja
+Jam malem
 
 Party
 + Raiden
 + Xingqiu
 + Qiqi
-+ Yae
++ Kazuha
