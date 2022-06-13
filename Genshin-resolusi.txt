@@ -2,3 +2,4 @@ Genshin Resolusi
 - Menyelesaikan all quest
 - Membuat jadwal bermain genshin
 - Build Yanfei
+- Mengambil semua culus di gunung DragonSpine
